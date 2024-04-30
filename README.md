@@ -23,6 +23,7 @@
 - Exploratory Data Analysis for Machine Learning - IBM, Apr 2024
 - Python Essentials 1 - Cisco, Mar 2024
 - What is Data Science? - IBM, Mar 2024
+- Tools for Data Science - IBM, Apr 2024
 - [PCEP-30-02] Certified Entry-Level Python Programmer - OpenEDG Python Institute, Mar 2024
 
 # 💻 Tech Stack:
